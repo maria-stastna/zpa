@@ -1,3 +1,4 @@
+#7a
 my_list = ["drawing", "painting", "cooking", "watching movies",]
 my_list.append("making coffee")
 print(my_list)
